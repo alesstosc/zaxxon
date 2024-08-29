@@ -185,3 +185,5 @@ Suggerimenti aggiuntivi:
  * Utilizza un editor di codice: Un editor come Visual Studio Code, PyCharm o Sublime Text ti offre funzionalità come l'evidenziazione della sintassi, il completamento automatico e il debug.
  * Gestisci le dipendenze: Utilizza un file requirements.txt per tenere traccia dei pacchetti installati nel tuo ambiente.
 
+vedi di continuarlo sto cazzo di libro
+
